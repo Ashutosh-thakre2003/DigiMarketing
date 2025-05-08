@@ -14,8 +14,8 @@ output :
 
 
 ![Screenshot 2025-05-08 192237](https://github.com/user-attachments/assets/d41e3604-0914-40b7-930e-8c82c87e88a3)
-![Screenshot 2025-05-08 192252]https://github.com/user-attachments/assets/3b72e909-c33b-456c-b0f4-1e34deed4be5)
-(![Screenshot 2025-05-08 192312](https://github.com/user-attachments/assets/ed4d0eff-2b8b-4a85-95ce-3357f8b2c4f5)
+![Screenshot 2025-05-08 192252](https://github.com/user-attachments/assets/3b72e909-c33b-456c-b0f4-1e34deed4be5)
+![Screenshot 2025-05-08 192312](https://github.com/user-attachments/assets/ed4d0eff-2b8b-4a85-95ce-3357f8b2c4f5)
 
 
 
